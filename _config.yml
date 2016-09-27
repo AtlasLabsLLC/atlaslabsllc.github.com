@@ -1,54 +1,8 @@
-# Site settings
 title: Atlas Labs LLC
-description: |
-  Software Etc
-owner: Atlas Labs LLC # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+description: Quality Software
+owner: Atlas Labs LLC
+first_published: 2016
 email: jrobison@atlaslabs.org
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://atlaslabs.org" # the base hostname & protocol for your site
-social:
-  twitter: https://twitter.com/atlaslabsllc
-  github: https://github.com/atlaslabsllc
-  linkedin-square: https://linkedin.com/in/atlaslabsllc
-  facebook-official: https://facebook.com/atlaslabsllc
-  google-plus-square: https://plus.google.com/u/0/+atlaslabsllc
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
-
-# Build settings
+baseurl: ""
+url: "http://atlaslabs.org"
 markdown: kramdown
-#sass:
-#  style: compressed
