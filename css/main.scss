@@ -109,6 +109,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+    h3.brand {
+        text-transform: none;
+    }
+
 	h2 {
 		font-size: 1.35em;
 		line-height: 1.75em;
@@ -1832,3 +1836,9 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
+
+    span.image > img.team-image {
+        border-radius: 15px;
+        width: 200px;
+        height: auto;
+    }
