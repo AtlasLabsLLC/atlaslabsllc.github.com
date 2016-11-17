@@ -6,3 +6,5 @@ email: jrobison@atlaslabs.org
 baseurl: ""
 url: "http://atlaslabs.org"
 markdown: kramdown
+gems:
+  - jekyll-seo-tag
